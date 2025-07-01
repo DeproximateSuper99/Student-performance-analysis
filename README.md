@@ -1,3 +1,17 @@
+## 📜 License  
+This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](LICENSE).  
+
+### 🔒 Permissions & Restrictions  
+✅ **Allowed**:  
+- Viewing, sharing, and cloning this repository.  
+
+❌ **Prohibited**:  
+- **Commercial use** (e.g., selling this code or derivatives).  
+- **Modifications** (e.g., creating altered versions).  
+- **Redistribution** without permission.
+
+
+
 Technical Thesis: Student Performance Analyzer
 A Machine Learning  and EDA Approach to Predicting Academic Success  (⁠ʘ⁠ᴗ⁠ʘ⁠⁠)
 
