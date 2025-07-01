@@ -135,7 +135,15 @@ Extra files will be created into the main folder named as SCRIPTS due to usage o
 
 
 
+HOW YOUR MAIN FOLDER MUST LOOK LIKE AFTER DOING ALL THE ABOVE STEPS CORRECTLY :
 
+
+
+student_performance_analyzer/
+├── data/
+│   └── student_data.csv   # Sample dataset
+├── main.py                # Main application
+└── requirements.txt
 
 
 
