@@ -1,0 +1,10 @@
+after doing all the setup mentioned in readme.md and main.py coding,
+we can run this project by activating the student-env by using command .\student-env\Scripts\activate in terminal
+[[if you dont see any activation, create a environment, refer readme.md for more]]
+
+then we can run the program by using python main.py command in terminal.
+
+any type of final_grade, attendance, score, marks error pops up, the issue is with excel that you have created.
+
+
+
