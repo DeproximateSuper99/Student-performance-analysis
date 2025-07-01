@@ -1,0 +1,16 @@
+https://pypi.org/project/pandas/2.0.3/
+
+https://pypi.org/project/scikit-learn/1.3.0/
+
+https://pypi.org/project/matplotlib/3.7.2/
+
+https://pypi.org/project/numpy/1.24.3/
+
+
+
+[if any toolkits version is not compatible with eachother, use command pip install pandas numpy matplotlib scikitlearn
+this command will force to install all the latest versions of the following toolkits]
+
+
+
+
